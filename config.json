@@ -1,0 +1,102 @@
+{   
+    "bot1": {
+        "source": "https://github.com/Ravandeadlya/Forkrsworke",
+        "branch": "main",
+        "env": {
+            "API_ID": "226",
+            "API_HASH": "52b3438d3c4d4",
+            "BOT_OWNER_ID": "7241",
+            "BOT_TOKEN": "805180503yDsABfdw",
+            "DATABASE_URI": "mongodb+ster0.s7dsa.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+            "LOG_CHANNEL": "-1002325",
+            "FORCE_SUB_CHANNEL": "https://t.me9",
+            "PORT": "8080"
+        },
+        "run": "main.py"
+    },   
+    "bot2": {
+        "source": "https://github.com/Rave",
+        "branch": "main",
+        "env": {
+            "API_ID": "226",
+            "API_HASH": "52b34d3c4d4",
+            "BOT_OWNER_ID": "751",
+            "BOT_TOKEN": "77082959LWF7W3G6Mymw",
+            "DATABASE_URI": "mongodb+suster0.s7dsa.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+            "LOG_CHANNEL": "-10025",
+            "FORCE_SUB_CHANNEL": "https://t.me/",
+            "PORT": "8080"
+        },
+        "run": "main.py"
+    },
+    "third": {
+        "source": "https://github.com/worke",
+        "branch": "main",
+        "env": {
+            "API_ID": "2726",
+            "API_HASH": "52b343e47d988d3c4d4",
+            "BOT_OWNER_ID": "721",
+            "BOT_TOKEN": "7659995246FejpD6H8",
+            "DATABASE_URI": "mongodb+uster0.s7dsa.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+            "LOG_CHANNEL": "-125",
+            "FORCE_SUB_CHANNEL": "https:09",
+            "PORT": "8080"
+        },
+        "run": "main.py"
+    },
+    "fifth": {
+        "source": "https://github.rke",
+        "branch": "main",
+        "env": {
+            "API_ID": "236",
+            "API_HASH": "52b34c4d4",
+            "BOT_OWNER_ID": "7251",
+            "BOT_TOKEN": "772269d0VEWoWHYiY",
+            "DATABASE_URI": "mo@cluster0.s7dsa.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+            "LOG_CHANNEL": "-125",
+            "FORCE_SUB_CHANNEL": "https:9",
+            "PORT": "8080"
+        },
+        "run": "main.py"
+    },
+    "bot4": {
+        "source": "repo_link",
+        "branch": "master",
+        "env": {
+            "TOKEN": ""
+        },
+        "run": "run.sh"
+    },
+    "bot5": {
+        "source": "repo_link",
+        "branch": "master",
+        "env": {
+            "TOKEN": ""
+        },
+        "run": "run.sh"
+    },
+    "bot6": {
+        "source": "repo_link",
+        "branch": "master",
+        "env": {
+            "TOKEN": ""
+        },
+        "run": "run.sh"
+    },
+    "bot7": {
+        "source": "repo_link",
+        "branch": "master",
+        "env": {
+            "TOKEN": ""
+        },
+        "run": "run.sh"
+    },
+    "bot8": {
+        "source": "repo_link",
+        "branch": "master",
+        "env": {
+            "TOKEN": ""
+        },
+        "run": "run.sh"
+    }
+}

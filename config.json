@@ -1,10 +1,10 @@
 {   
     "bot1": {
-        "source": "repo_link",
+        "source": "https://github.com/blandk77/FileStore",
         "branch": "master",
         "env": {
-            "TOKEN": ""
+            "TG_BOT_TOKEN": "7658357765:AAFNojY3QWjcLUvT17D5RYv1ZQFwhSQHCEA"
         },
-        "run": "run.sh"
+        "run": "main.py"
     }
 }

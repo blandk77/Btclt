@@ -1,10 +1,10 @@
 {   
     "bot1": {
-        "source": "https://github.com/blandk77/FileStore",
-        "branch": "master",
+        "source": "https://github.com/blandk77/FileToLink",
+        "branch": "main",
         "env": {
-            "TG_BOT_TOKEN": "7658357765:AAFNojY3QWjcLUvT17D5RYv1ZQFwhSQHCEA"
+            "BOT_TOKEN": "7512502745:AAFJMb_sVQx8_vejyv0xbBY26W8i3D3OzEo"
         },
-        "run": "main.py"
+        "run": "bot.py"
     }
 }
